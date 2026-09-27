@@ -544,28 +544,6 @@ AI-Future-of-Jobs-Intelligence-Platform/
 
 ---
 
-# 🚧 Project Progress
-
-| Phase                       | Status         |
-| --------------------------- | -------------- |
-| Dataset Collection          | ✅ Completed    |
-| Project Planning            | ✅ Completed    |
-| Business Questions          | ✅ Completed    |
-| Data Understanding          | 🔄 In Progress |
-| Data Cleaning               | 🔄 In Progress |
-| Categorical EDA             | ⏳ Upcoming     |
-| Numerical EDA               | ⏳ Upcoming     |
-| Job & Metric Analysis       | ⏳ Upcoming     |
-| Future-of-Jobs Analysis     | ⏳ Upcoming     |
-| Feature Engineering         | ⏳ Upcoming     |
-| Correlation & Relationships | ⏳ Upcoming     |
-| Visualization               | ⏳ Upcoming     |
-| Final Business Insights     | ⏳ Upcoming     |
-| SQL Analysis                | ⏳ Upcoming     |
-| Power BI Dashboard          | ⏳ Upcoming     |
-| Intelligence Platform       | 🔮 Future      |
-
----
 
 # 💡 Expected Business Insights
 
